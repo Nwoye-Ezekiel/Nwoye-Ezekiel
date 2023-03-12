@@ -1,4 +1,4 @@
-### Hello World 🌎
+### Hello, World! 🌎
 
 # I'm **Ezekiel Nwoye** 👋
 
