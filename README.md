@@ -2,7 +2,7 @@
 
 # I'm **Ezekiel Nwoye** 👋
 
-I'm a frontend developer with \[2+\] years of professional experience. I specialize in creating user-friendly and responsive web applications using modern web technologies. I enjoy writing code that is both well-organized and easy to maintain, and I am consistently eager to expand my knowledge of emerging technologies.
+I'm a frontend developer with 2+ years of professional experience. I specialize in creating user-friendly and responsive web applications using modern web technologies. I enjoy writing code that is both well-organized and easy to maintain, and I am consistently eager to expand my knowledge of emerging technologies.
 
 ---
 
