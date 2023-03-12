@@ -1,4 +1,4 @@
-### Hello world 🌎
+### Hello World 🌎
 
 # I'm **Ezekiel Nwoye** 👋
 
@@ -70,7 +70,7 @@ You can reach me through my email to connect and talk about how we can work toge
 
 ### 🏆 **Trophies**
 
-![My Github Trophies](https://github-profile-trophy.vercel.app/?username=nwoye-ezekiel&theme=algolia)
+![My Github Trophies](https://github-profile-trophy.vercel.app/?username=nwoye-ezekiel&column=3&row=2&theme=algolia)
 
 ---
 
