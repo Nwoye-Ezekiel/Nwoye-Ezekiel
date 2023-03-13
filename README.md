@@ -54,7 +54,7 @@ Here's one for you to look at, just one click away. 👉 [**Twitter Logo**](http
 
 You can reach me through my email to connect and talk about how we can work together! 👇
 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinecherem.nwoye.cn@gmail.com@gmail.com)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezekiel.web.dev@gmail.com)
 
 ---
 
