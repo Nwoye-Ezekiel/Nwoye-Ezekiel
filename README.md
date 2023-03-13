@@ -46,7 +46,7 @@ Here are some of my notable projects:
 
 In my free time, I indulge in the creativity of CSS art, relishing the opportunity to bring my imaginative ideas to life, overcoming the complexities that accompany it through a medium that not everyone explores.
 
-Here's one for you to look at, just one click away 👉 [**Twitter Logo**](https://nwoye-ezekiel.github.io/CSS-Art-Twitter-Logo/)
+Here's one for you to look at, just one click away. 👉 [**Twitter Logo**](https://nwoye-ezekiel.github.io/CSS-Art-Twitter-Logo/)
 
 ---
 
@@ -76,7 +76,7 @@ You can reach me through my email to connect and talk about how we can work toge
 
 ## 🌐 **Connect With Me**
 
-Connect with me on my social media platforms by following and engaging with my content ❤️
+Connect with me on my social media platforms by following and engaging with my content. ❤️
 
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nwoye_ezekiel)   
 [![](https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nwoyeezekiel/)
