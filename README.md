@@ -44,7 +44,7 @@ Here are some of my notable projects:
 
 ## ⚡ **Fun Fact**
 
-In my free time, I indulge in the creativity of CSS art, relishing the opportunity to bring my imaginative ideas to life, overcoming the complexities that accompany it through a medium that not everyone explores.
+During my leisure time, I enjoy exploring the artistic possibilities of CSS, using the opportunity to transform my imaginative ideas into digital creations while overcoming the intricacies that come with this medium, which not everyone explores.
 
 Here's one for you to look at, just one click away. 👉 [**Twitter Logo**](https://nwoye-ezekiel.github.io/CSS-Art-Twitter-Logo/)
 
