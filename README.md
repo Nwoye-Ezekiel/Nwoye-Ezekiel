@@ -40,17 +40,17 @@ Word Hunt solver with pattern visualizer and automation features for desktop and
 
 ---
 
-#### [Animated Man Mr. Polygon](https://the-would-you-rather-game.netlify.app/) 🔗  
+#### [Animated Man Mr. Polygon](https://nwoye-ezekiel.github.io/mr-polygon/) 🔗  
 Interactive geometric portrait built with pure CSS. Includes animations, eye movement, scroll effects, and ambient music.
 
 ---
 
-#### [Animated Tipper Truck](https://the-would-you-rather-game.netlify.app/) 🔗  
+#### [Animated Tipper Truck](https://nwoye-ezekiel.github.io/CSS-Art-Tipper/) 🔗  
 CSS tipper truck with static and animated modes synced with music. Designed with high visual detail and realism.
 
 ---
 
-#### [Animated Castle](https://the-would-you-rather-game.netlify.app/) 🔗  
+#### [Animated Castle](https://nwoye-ezekiel.github.io/CSS-Art-Castle/) 🔗  
 Colorful castle scene built with HTML and CSS. Features detailed design and a cinematic atmosphere.
 
 ---
