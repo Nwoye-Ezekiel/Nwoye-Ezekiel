@@ -41,7 +41,7 @@ Word Hunt solver with pattern visualizer and automation features for desktop and
 ---
 
 #### [Animated Man Mr. Polygon](https://nwoye-ezekiel.github.io/mr-polygon/) 🔗  
-Interactive geometric portrait built with pure CSS. Includes animations, eye movement, scroll effects, and ambient music.
+Interactive geometric portrait built with pure CSS. Includes animations, eye movement, and ambient music.
 
 ---
 
