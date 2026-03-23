@@ -1,84 +1,75 @@
-### Hello, World! 🌎
+# 👋 Ezekiel Nwoye
 
-# I'm **Ezekiel Nwoye** 👋
+Frontend Developer focused on building intuitive, visually rich interfaces that feel smooth and alive. 
 
-I'm a frontend developer with 3+ years of professional experience. I specialize in creating user-friendly and responsive web applications using modern web technologies. I enjoy writing code that is both well-organized and easy to maintain, and I am consistently eager to expand my knowledge of emerging technologies.
+I build fast, intuitive interfaces with strong attention to detail, performance, and scalability.
 
----
-
-## ‍💻 **Work**
-
-I currently work as a frontend developer at [**Risevest**](https://risevest.com/), a fintech company that offers a dollar investment platform for wealth creation. As a member of their exceptional team, I contribute to the development and maintenance of their amazing products.
+My strongest edge lies in UI and creative frontend development, driven by a deep obsession for detail and craft.
 
 ---
 
-## 💼 **Skills**
+## 💻 What I Do
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript, Python, C++, SQL
-- **Frameworks/Libraries:** React, React-Native, Redux, Tailwind CSS, Bootstrap, SASS, Material UI, Ant Design
-- **Package Managers:** Npm, Yarn
-- **Version Control:** Git, BitBucket
-- **Design Software:** Figma, AdobeXD, CorelDraw
-- **Collaboration Platforms:** Notion, Slack, Trello, Jira
-- **Diagramming Software:** Gliffy
+- Build responsive, production-grade web applications  
+- Design and implement polished UI systems  
+- Create smooth, meaningful animations and interactions  
+- Turn complex ideas into simple, usable interfaces  
 
 ---
 
-## 🌱 **Currently Learning**
+## 🧠 Tech Stack
 
-I am currently immersed in the world of [**Node.js**](https://nodejs.org/en/about/), exploring its endless possibilities and discovering new ways to create dynamic and powerful web applications.
+**Core**  
+HTML • CSS • JavaScript • TypeScript  
 
----
+**Frontend**  
+React • Next.js  
 
-## 📌 **Projects**
+**UI & Styling**  
+Tailwind CSS • Material UI • Framer Motion • GSAP
 
-Here are some of my notable projects:
-
-- [**Word Dash**](https://word-dash.vercel.app/) - Word Dash is a typing game that requires players to type different texts as quickly as possible to achieve success. Accuracy and speed are crucial for players to avoid losing points and correcting errors. The game offers both a challenge and an opportunity to enhance typing skills.
-
-- [**Would You Rather**](https://the-would-you-rather-game.netlify.app/) - When existing players log in, they have the option to answer questions that other users have posted. Once they submit their answers, the game generates a poll result for them to review. As players continue to participate in the game, they earn points on the scoreboard by answering more questions and submitting their own, which are then displayed on the leaderboard page.
-
-- [**Number Puzzle**](https://number-slide-puzzle.netlify.app/) - The game involves shifting blocks to the empty cell within the puzzle box. To play, simply tap on the blocks next to the vacant cell to move them into the empty space. The objective of the game is to arrange the blocks in ascending order according to their corresponding numbers, and then place the empty cell in the lower right corner of the box to complete the puzzle.
+**Tools**  
+Git • Figma • Jira  
 
 ---
 
-## ⚡ **Fun Fact**
+## 🚀 Selected Projects
 
-During my leisure time, I enjoy exploring the artistic possibilities of CSS, using the opportunity to transform my imaginative ideas into digital creations while overcoming the intricacies that come with this medium, which not everyone explores.
-
-Here's one for you to look at, just one click away. 👉 [**Twitter Logo**](https://nwoye-ezekiel.github.io/CSS-Art-Twitter-Logo/)
-
----
-
-## 📫 **Contact Me**
-
-You can reach me through my email to connect and talk about how we can work together! 👇
-
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezekiel.web.dev@gmail.com)
+#### [Word Hunter](https://the-word-hunter.vercel.app/) 🔗  
+Word Hunt solver with pattern visualizer and automation features for desktop and mobile. Built to improve gameplay and help users discover words faster.
 
 ---
 
-## 📈 **GitHub Analytics**
-
-### 📊 **Statistics**
-
-![My GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=nwoye-ezekiel&show_icons=true&include_all_commits=true&count_private=true&theme=algolia)
-
-### 👨‍💻 **Programming Languages**
-
-![My GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nwoye-ezekiel&layout=compact&langs_count=10&&theme=algolia)
-
-### 🏆 **Trophies**
-
-![My Github Trophies](https://github-profile-trophy.vercel.app/?username=nwoye-ezekiel&column=3&row=2&theme=algolia)
+#### [Animated Man Mr. Polygon](https://the-would-you-rather-game.netlify.app/) 🔗  
+Interactive geometric portrait built with pure CSS. Includes animations, eye movement, scroll effects, and ambient music.
 
 ---
 
-## 🌐 **Connect With Me**
+#### [Animated Tipper Truck](https://the-would-you-rather-game.netlify.app/) 🔗  
+CSS tipper truck with static and animated modes synced with music. Designed with high visual detail and realism.
 
-Connect with me on my social media platforms by following and engaging with my content. ❤️
+---
 
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nwoye_ezekiel)   
-[![](https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nwoyeezekiel/)
+#### [Animated Castle](https://the-would-you-rather-game.netlify.app/) 🔗  
+Colorful castle scene built with HTML and CSS. Features detailed design and a cinematic atmosphere.
 
-Thanks for stopping by 👍
+---
+
+## 🎨 Creative Work
+
+I explore the artistic side of frontend using **pure CSS**, building detailed visuals without SVGs or images.
+
+#### [View CSS Art](https://nwoye-ezekiel.github.io/optical-illusion/) 🔗
+
+---
+
+## 📫 Contact
+
+ezekiel.web.dev@gmail.com  
+
+---
+
+## 🌐 Connect
+
+- Twitter: https://twitter.com/nwoye_ezekiel  
+- LinkedIn: https://www.linkedin.com/in/nwoyeezekiel/
